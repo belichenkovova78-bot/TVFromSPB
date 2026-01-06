@@ -100,7 +100,7 @@ http://195.64.140.147:10048/48
 #EXTINF:-1 tvg-id="mir24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/2/28/%D0%9C%D0%B8%D1%80_24_23.03.2024.png" group-title="Информационное",Мир 24
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.ts.m3u8?hls_proxy_host=ceb47544f8d5cb4dd083338710e69ccd
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://toplogos.ru/images/logo-kinokomediya.png" group-title="Фильмы и сериалы",Кинокомедия
-https://s183.glaz.tv:8082/liveg/komediya.stream/chunks.m3u8?nimblesessionid=182624526&wmsAuthSign=c2VydmVyX3RpbWU9MS81LzIwMjYgNzozODozMyBQTSZoYXNoX3ZhbHVlPUY4eVRYQ3FMd21SYjgrUWppRVROVnc9PSZ2YWxpZG1pbnV0ZXM9MjAw
+https://s87.glaz.tv:8082/liveg/komediya.stream/chunks.m3u8?nimblesessionid=2087006&wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjYgNDo0MzoxMyBQTSZoYXNoX3ZhbHVlPVFsbG5vb3UvbkdwSVRJNElWSUUwTEE9PSZ2YWxpZG1pbnV0ZXM9MjAw
 #EXTINF:-1 tvg-id="russkiyroman" tvg-logo="https://rusroman.ru/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",Русский роман
 https://vod1.stb.tvime.ru/russkiiroman/index.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 tvg-id="kino24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a6/Kino_24.png/revision/latest?cb=20160719101653&path-prefix=ru" group-title="Фильмы и сериалы",Kino24
@@ -367,6 +367,7 @@ https://minsk-cache01t.voka.tv/live/1448-req_offset_28000000-req_window_0-2k_v5.
 https://vod1.stb.tvime.ru/Ani/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://www.cableman.ru/sites/default/files/radostmoya.png" group-title="Детское",Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+
 
 
 

@@ -199,7 +199,7 @@ https://minsk-cache04i.voka.tv/live/5109-req_offset_28000000-req_window_0-3k_v5.
 #EXTINF:-1 tvg-id="amediapremium-hd" tvg-logo="http://vsewtv.top/img/amedia-premium.jpg" group-title="Фильмы и сериалы",Amedia Premium HD
 https://vod1.stb.tvime.ru/Amedia_Premium_HD/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 tvg-id="fantastic-animation" tvg-logo="https://fantv.ru/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",FAN
-https://i.pinimg.com/736x/3d/dd/c8/3dddc8d1081d3b9de03557a3e2fcd0ec.jpg
+http://api.peers.tv/timeshift/fan_hd/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc5MDIxOTAsImlhdCI6MTc2NzgxNTc5MCwiY2lkIjo2LCJ1aWQiOjk4NjI2NDk3OCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.3VZJs8m5UezaikZpVOo-hdEdhuogQsdE6srWEHTGPuw&offset=10
 #EXTINF:-1 tvg-id="viju-tv1000-action" tvg-logo="https://ntvplus.tv/files/image/79/84/34/q25.png" group-title="Фильмы и сериалы",viju TV1000 Action HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=7x_slB82H_6uV3xoGLabfw&e=1768750722&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="viju-tv1000-novella" tvg-logo="https://www.cableman.ru/sites/default/files/viju_TV1000_%D0%BD%D0%BE%D0%B2%D0%B5%D0%BB%D0%BB%D0%B0_color_rgb_02%20%281%29.png" group-title="Фильмы и сериалы",viju TV1000 Новелла HD
@@ -259,7 +259,7 @@ https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-logo="https://podarokangelu.com/uploads/smi/logo/63052947be0b9424298005.png" group-title="Развлекательное" group-title="Музыкальное",ЖАРА
 https://vod1.stb.tvime.ru/Zhara_HD/index.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 tvg-id="russian-extreme" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/b2c/h8s9jrh2ibt3t5ap83l7fp47n7zkscaw/160_160_1/000000103.png" group-title="Развлекательное",Russian Extreme
-http://178.212.71.253:8000/play/118/index.m3u8
+http://85.208.223.249:8888/play/a004
 #EXTINF:-1 tvg-id="neizvestnaya-rossiya" tvg-logo="https://www.gazprom-media.com/storage/uploads/channel/logo_hover/0/8/747/8747/46b698b722a2b4940ecfaa0a4c84d3f6.png" group-title="Познавательное",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tayna-galactiki" tvg-logo="https://yootv.host/images/logo-channel/galaxy-tv.png" group-title="Познавательное",Тайна галактики HD
@@ -379,6 +379,7 @@ https://minsk-cache01t.voka.tv/live/1448-req_offset_28000000-req_window_0-2k_v5.
 https://vod1.stb.tvime.ru/Ani/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://www.cableman.ru/sites/default/files/radostmoya.png" group-title="Детское",Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
+
 
 
 

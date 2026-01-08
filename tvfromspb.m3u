@@ -189,9 +189,9 @@ http://193.25.8.59:8000/interaz
 #EXTINF:-1 tvg-id="kinosezon" group-title="Фильмы и сериалы",Киносезон
 https://stitch.teletarget.ru/vintera/movieseason/1767464056995ce05ea71b67648ff8d86c958256aae61a099f85562b3b5c1542/lvl1.m3u8
 #EXTINF:-1 tvg-id="fx" tvg-logo="http://vsewtv.top/img/fox-hd.jpg" group-title="Фильмы и сериалы",FX HD
-https://edge03-alm.beetv.kz/bpk-token/3an@yetllichmonbzpn0t5hgqgxwqugz20csymaolvaa/bpk-tv/000004472/tve/000004472.m3u8
+https://edge03-alm.beetv.kz/bpk-token/3an@tswgt41a00m05fx1pqzq2nng3puuvzu5t0fdtdba/bpk-tv/000004472/tve/000004472-audio_82882_rus=82400-video=5287600.m3u8
 #EXTINF:-1 tvg-id="fx-life" tvg-logo="http://vsewtv.top/img/fox-life-hd.jpg" group-title="Фильмы и сериалы",Fox Life HD
-https://edge05-alm.beetv.kz/bpk-token/3an@eeoyznsbybhxz2vi1gf4r2qt1ebrdooteebtrnca/bpk-tv/000004471/tve/000004471.m3u8
+https://edge04-alm.beetv.kz/bpk-token/3an@tzainibbdavbfo1zj5srkbq0qcmgakdkt1xnnvda/bpk-tv/000004471/tve/000004471-audio_82882_rus=82400-video=5287600.m3u8
 #EXTINF:-1 tvg-id="viju-tv1000" tvg-logo="http://vsewtv.top/img/viju-tv1000.jpg" group-title="Фильмы и сериалы",TV1000
 https://vod.splay.uz/live_splay/original/TV1000/mono.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 tvg-id="viju-tv1000-russkoe" tvg-logo="http://magtv.top/img/tv1000rus.jpg" group-title="Фильмы и сериалы",TV1000 Русское кино
@@ -228,10 +228,10 @@ https://serv25.vintera.tv/kaleidoscop/kaleidoscop_sd/playlist.m3u8
 https://msk3.peers.tv/streaming/vhs_ka/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc3MjIzOTQsImlhdCI6MTc2NzYzNTk5NCwiY2lkIjo4MSwidWlkIjo5MjMyMzI3ODcsInJlZyI6ZmFsc2UsImlwIjoxNTk1NDY5NDIwfQ.ntkn5cUOBaVHROzFeSsiDhsCkKq7RXcyPd8e3vG8WWI&client=81
 #EXTINF:-1 tvg-id="drive-tv" tvg-logo="https://smotret-tv.live/images/drajv.png" group-title="Развлекательное",Драйв
 http://95.66.188.74/Drive/mono.m3u8
-#EXTINF:-1 tvg-id="tlc" tvg-logo="https://smotret-tv.live/images/tlc.png" group-title="Развлекательное",TLC
-http://94.232.127.28:8080/tlc/tracks-a2/mono.m3u8
+#EXTINF:-1 tvg-id="tlc" tvg-logo="https://smotret-tv.live/images/tlc.png" group-title="Развлекательное",TLC HD
+http://176.118.197.125/TLC-HD/index.m3u8
 #EXTINF:-1 tvg-id="tehno-24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/8/89/Техно_24_%28без_надписи%29.png/revision/latest/scale-to-width-down/1200?cb=20210805205115&path-prefix=ru" group-title="Развлекательное",Т24
-https://server.musical.uz/texno24_web/tracks-v1a1/mono.m3u8?remote=95.24.237.89&token=87b4e0c575f9036763540e2268f1d5db97c0ec81-e64c5e39254e9828339e05c6ecc3fcfb-1765743497-1765732697
+http://api.peers.tv/timeshift/24techno/16/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc5MDIxOTAsImlhdCI6MTc2NzgxNTc5MCwiY2lkIjo2LCJ1aWQiOjk4NjI2NDk3OCwicmVnIjpmYWxzZSwiaXAiOjM1ODU1NTM4NTcsImFkdWx0IjpmYWxzZX0.3VZJs8m5UezaikZpVOo-hdEdhuogQsdE6srWEHTGPuw&offset=10
 #EXTINF:-1 tvg-id="cgtn-russkiy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/CGTN_Russian.png" group-title="Развлекательное",CGTN Русский
 https://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
 #EXTINF:-1 tvg-id="perec-international" tvg-logo="https://smotret-tv.live/images/perets-tv.png" group-title="Развлекательное",Перец
@@ -259,7 +259,7 @@ https://iam-profi.ru/hls-live/livepkgr/_definst_/liveevent/td720.m3u8
 #EXTINF:-1 tvg-id="zhara" tvg-logo="https://podarokangelu.com/uploads/smi/logo/63052947be0b9424298005.png" group-title="Развлекательное" group-title="Музыкальное",ЖАРА
 https://vod1.stb.tvime.ru/Zhara_HD/index.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 tvg-id="russian-extreme" tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/b2c/h8s9jrh2ibt3t5ap83l7fp47n7zkscaw/160_160_1/000000103.png" group-title="Развлекательное",Russian Extreme
-http://85.208.223.249:8888/play/a004
+http://178.212.71.253:8000/play/118/index.m3u8
 #EXTINF:-1 tvg-id="neizvestnaya-rossiya" tvg-logo="https://www.gazprom-media.com/storage/uploads/channel/logo_hover/0/8/747/8747/46b698b722a2b4940ecfaa0a4c84d3f6.png" group-title="Познавательное",Неизвестная Россия HD
 https://cdn.ntv.ru/unknown_russia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="tayna-galactiki" tvg-logo="https://yootv.host/images/logo-channel/galaxy-tv.png" group-title="Познавательное",Тайна галактики HD
@@ -294,7 +294,7 @@ https://minsk-cache04i.voka.tv/live/992-req_offset_28000000.m3u8
 https://cdn.ntv.ru/th_style/mono.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://www.cableman.ru/sites/default/files/logo_myplanet_color_text_1.png" group-title="Познавательное",Моя планета HD
 http://95.66.188.74/MoyaPlanetaHD/mono.m3u8
-#EXTINF:-1 tvg-id="viju-explore" tvg-logo="https://ntvplus.tv/files/image/80/00/03/djf.png" group-title="Познавательное",viju Exploxe HD
+#EXTINF:-1 tvg-id="viju-explore" tvg-logo="https://ntvplus.tv/files/image/80/00/03/djf.png" group-title="Познавательное",viju Explore HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Explore_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=OKkxFw6_KvYZD7_hc_e2nA&e=1768731685&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
 #EXTINF:-1 tvg-id="viju-history" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="Познавательное",viju History HD
 https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/History_HD_ad.smil/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3a1&md5=jMHU3qyoQl4KRtwq9-w5xQ&e=1768731972&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
@@ -379,10 +379,16 @@ https://minsk-cache01t.voka.tv/live/1448-req_offset_28000000-req_window_0-2k_v5.
 https://vod1.stb.tvime.ru/Ani/tracks-v1a1/mono.m3u8?token=billing_wfc4fdIM3ow=
 #EXTINF:-1 tvg-id="radost-moya" tvg-logo="https://www.cableman.ru/sites/default/files/radostmoya.png" group-title="Детское",Радость Моя
 https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
-
-
-
-
+#EXTINF:-1 tvg-id="vitrina-tv" tvg-logo="https://online-red.com/images/tv/vitrinatv.png" group-title="Телемагазины",Витрина ТВ
+http://178.212.71.253:8000/play/32/index.m3u8
+#EXTINF:-1 tvg-id="leomax24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrqD1a5NPCbEnNxxvN-ybuSkBqOVReS1cMkg&s" group-title="Телемагазины",LEOMAX24
+https://tvshops.bonus-tv.ru/cdn/shop24/tracks-v1a1/mono.ts.m3u8?token=cdn
+#EXTINF:-1 tvg-id="nano-hd" tvg-logo="https://ramnet.ru/tv/logo/000003942.png" group-title="Телемагазины",Nano HD
+http://194.143.148.28:8080/NanoTV/mpegts
+#EXTINF:-1 tvg-id="luxury-hd" tvg-logo="https://ramnet.ru/tv/logo/000001654.png" group-title="Телемагазины",Luxury HD
+https://minsk-cache06i.voka.tv/live/212-req_offset_28000000-req_window_0-4k_v5.m3u8
+#EXTINF:-1 tvg-id="moy-mir" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlisq9Xv32SCwTL49T8gJLHy_-qpgc_f1chQ&s" group-title="Телемагазины",Мой Мир
+https://msk3.peers.tv/streaming/world/16/copy_a/playlist.m3u8?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJhY2Nlc3MiLCJleHAiOjE3Njc5MDQxMDMsImlhdCI6MTc2NzgxNzcwMywiY2lkIjo4MSwidWlkIjo5MjMyMzI3ODcsInJlZyI6ZmFsc2UsImlwIjoxNTk1NDY5NDIwfQ.lkboRTtDiGYvaLCbik2f6gYd2ijXYGYwDstT5KAHTaA&client=81
 
 
 

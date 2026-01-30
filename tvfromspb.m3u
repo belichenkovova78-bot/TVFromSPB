@@ -111,7 +111,7 @@ http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587709701.png" group-title="Фильмы и сериалы",Кинопремьера HD
 http://91.207.115.228:5000/c42
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/channel/kinouzhas" group-title="Фильмы и сериалы",Киноужас
-http://91.207.115.228:5000/c43
+http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://tv.rambler.ru/moskva/channel/kinosvidanie/" group-title="Фильмы и сериалы",Киносвидание
 http://91.207.115.228:5000/c45
 #EXTINF:-1 tvg-id="russkiyroman" tvg-logo="https://rusroman.ru/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",Русский роман
@@ -447,7 +447,7 @@ http://91.207.115.228:5000/c115
 #EXTINF:-1 tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/f4f/895um8rklb6aeaf1bjnzowubik9hkcat/160_160_1/000000786.png" group-title="Спортивное",Матч! Футбол 3
 http://91.207.115.228:5000/c115
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/ultra_rex_logo.png" group-title="Спортивное",Russian Extreme Ultra
-https://clck.ru/3RYZ9S
+https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/triumf_logo.png" group-title="Спортивное",Старт Триумф HD
 https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080q/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/konnyy-mir.png" group-title="Спортивное",Конный мир
@@ -520,6 +520,7 @@ https://stream01.pcradio.ru/radiorus_ru-med
 https://stream01.pcradio.ru/piterfm_1009-med
 #EXTINF:-1 group-title="Радио",Эльдорадио
 https://stream01.pcradio.ru/eldoradio-med
+
 
 
 

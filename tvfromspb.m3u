@@ -103,11 +103,11 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.ts.m
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://toplogos.ru/images/logo-kinokomediya.png" group-title="Фильмы и сериалы",Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/sites/default/files/kinosemya.png" group-title="Фильмы и сериалы",Киносемья
-http://91.207.115.228:5000/c39
+https://clck.ru/3RYSYe
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/sites/default/files/nashe_novoe_kino.png" group-title="Фильмы и сериалы",Наше новое кино
-http://91.207.115.228:5000/c41
+http://185.46.16.239:8000/Nickelodeon
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://vits.tv/images/tvstation/russia/kinohit.png" group-title="Фильмы и сериалы",Кинохит
-http://91.207.115.228:5000/c38
+http://158.101.222.193:88/georgia_play.php?id=kinohit
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587709701.png" group-title="Фильмы и сериалы",Кинопремьера HD
 http://91.207.115.228:5000/c42
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/channel/kinouzhas" group-title="Фильмы и сериалы",Киноужас
@@ -149,7 +149,7 @@ http://176.118.197.101/LubimoeKino/index.m3u8
 #EXTINF:-1 tvg-id="mir-seriala" tvg-logo="https://static.tildacdn.com/tild6566-3962-4635-b737-386461666133/MIR_SERIALA_3D.png" group-title="Фильмы и сериалы",Мир сериала
 http://94.236.201.114/MIR_SERIALA_SD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="nastoyashee-strashnoe" tvg-logo="https://smotret-tv.live/images/nst_tv.png" group-title="Фильмы и сериалы",НСТ
-http://91.207.115.228:5000/c169
+https://clck.ru/3RYSkV
 #EXTINF:-1 tvg-id="russliy-detektiv" tvg-logo="https://rudetective.tv/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",Русский детектив
 https://vod.splay.uz/live_splay/original/RusskiyDetektiv/mono.m3u8
 #EXTINF:-1 tvg-id="saphir" tvg-logo="https://mt.media/upload/iblock/e1d/e1d844cdede445c8022f5262dd35cbfd.png" group-title="Фильмы и сериалы",САПФИР
@@ -173,7 +173,7 @@ https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a
 #EXTINF:-1 tvg-id="sci-fi" tvg-logo="https://smotret-tv.live/images/sci-fi.png" group-title="Фильмы и сериалы",.sci-fi
 http://86.57.209.210/Sci-Fi/index.m3u8
 #EXTINF:-1 tvg-id="telecafe" tvg-logo="http://vsewtv.top/img/telekafe.jpg" group-title="Фильмы и сериалы",Телекафе
-https://vod1.stb.tvime.ru/Telekafe/index.m3u8?token=billing_wfc4fdIM3ow=
+http://193.25.8.59:8000/telecafe
 #EXTINF:-1 tvg-id="bollywood-hd" tvg-logo="https://vits.tv/images/tvstation/russia/bollywood-hd.png" group-title="Фильмы и сериалы",Bollywood HD
 http://193.27.209.122/bollywood/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="hollywood-hd" tvg-logo="https://epg.iptvx.one/picons/hollywood-hd.png" group-title="Фильмы и сериалы",Hollywood HD
@@ -201,7 +201,7 @@ http://193.25.8.59:8000/interaz
 #EXTINF:-1 tvg-id="kinosezon" group-title="Фильмы и сериалы",Киносезон
 https://stitch.teletarget.ru/vintera/movieseason/1767464056995ce05ea71b67648ff8d86c958256aae61a099f85562b3b5c1542/lvl1.m3u8
 #EXTINF:-1 tvg-id="rodnoe-kino" tvg-logo="https://ramnet.ru/tv/logo/000000074.png" group-title="Фильмы и сериалы",Родное кино
-http://91.207.115.228:5000/c31
+http://176.118.197.101/RodnoeKino/index.m3u8
 #EXTINF:-1 tvg-id="illuzion-plus" tvg-logo="https://ntvplus.tv/files/image/07/68/02/cdn.png" group-title="Фильмы и сериалы",Иллюзион+
 http://185.46.16.239:8000/Illyuzion+
 #EXTINF:-1 tvg-id="viju-tv1000" tvg-logo="http://vsewtv.top/img/viju-tv1000.jpg" group-title="Фильмы и сериалы",TV1000
@@ -231,7 +231,7 @@ https://cdn.voka.tv/live/84.m3u8
 #EXTINF:-1 tvg-id="kuhnya" tvg-logo="https://www.cableman.ru/sites/default/files/Kuhnya.png" group-title="Развлекательное",КУХНЯ ТВ
 http://91.207.115.228:5000/c74
 #EXTINF:-1 tvg-id="anekdot-tv" tvg-logo="https://www.anekdottv.tv/upload/iblock/57c/57ccb3041375893cf583e73cf2a10d87.png" group-title="Развлекательное",Анекдот ТВ
-
+https://clck.ru/3RYWru
 #EXTINF:-1 tvg-id="sony-red" tvg-logo="https://smotret-tv.live/images/red-kanal.png" group-title="Развлекательное",.red HD
 http://193.25.8.59:8000/set
 #EXTINF:-1 tvg-id="kaleydaskop-tv" tvg-logo="https://www.oreol.tv/img/news/1234.png" group-title="Развлекательное",Калейдоскоп ТВ
@@ -520,6 +520,7 @@ https://stream01.pcradio.ru/radiorus_ru-med
 https://stream01.pcradio.ru/piterfm_1009-med
 #EXTINF:-1 group-title="Радио",Эльдорадио
 https://stream01.pcradio.ru/eldoradio-med
+
 
 
 

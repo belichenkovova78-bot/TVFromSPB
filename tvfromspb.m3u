@@ -518,17 +518,37 @@ https://stream01.pcradio.ru/radiovesti_ru-med
 https://stream01.pcradio.ru/radiomayak_ru-med
 #EXTINF:-1 group-title="Радио",Радио России
 https://stream01.pcradio.ru/radiorus_ru-med
+#EXTINF:-1 group-title="Радио",РАДИО ПЕТЕРБУРГ
+
+#EXTINF:-1 group-title="Радио",Русское Радио
+
 #EXTINF:-1 group-title="Радио",Питер FM
 https://stream01.pcradio.ru/piterfm_1009-med
 #EXTINF:-1 group-title="Радио",Эльдорадио
 https://stream01.pcradio.ru/eldoradio-med
+#EXTINF:-1 group-title="Радио",Record Dance Radio
+https://hls-01-radiorecord.hostingradio.ru/record/112/playlist.m3u8
+#EXTINF:-1 group-title="Радио",Europa Plus
+https://hls-01-regions.emgsound.ru/11_spb/112/playlist.m3u8
+#EXTINF:-1 group-title="Радио",Дорожное радио
+https://hls-01-regions.emgsound.ru/15_spb/112/playlist.m3u8
+#EXTINF:-1 group-title="Радио",Монте- Карло
 
+#EXTINF:-1 group-title="Радио",Радио Мир
 
+#EXTINF:-1 group-title="Радио",Детское радио 103.7 FM
+https://hls-01-gpm.hostingradio.ru/detifm495/128/playlist.m3u8
+#EXTINF:-1 group-title="Радио",STUDIO21
 
+#EXTINF:-1 group-title="Радио",NRJ 95.0 FM
 
+#EXTINF:-1 group-title="Радио",D-FM
 
+#EXTINF:-1 group-title="Радио",Love Radio
 
+#EXTINF:-1 group-title="Радио",ЖАРА FM МОСКВА
 
+#EXTINF:-1 group-title="Радио",СОЛОВЬЁВ FM
 
 
 

@@ -103,17 +103,17 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.ts.m
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://toplogos.ru/images/logo-kinokomediya.png" group-title="Фильмы и сериалы",Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/sites/default/files/kinosemya.png" group-title="Фильмы и сериалы",Киносемья
-https://clck.ru/3RZAkR
+http://31.148.48.15/Kinosemya_HD/index.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/sites/default/files/nashe_novoe_kino.png" group-title="Фильмы и сериалы",Наше новое кино
 https://clck.ru/3RZBEh
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://vits.tv/images/tvstation/russia/kinohit.png" group-title="Фильмы и сериалы",Кинохит
 https://clck.ru/3RZB82
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://cdn-b2c.dom.ru/epg/chbiglogo/1587709701.png" group-title="Фильмы и сериалы",Кинопремьера HD
-https://clck.ru/3RZB4v
+http://31.148.48.15/Kinopremiera_HD/index.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/channel/kinouzhas" group-title="Фильмы и сериалы",Киноужас
 http://31.210.208.171:8080/kinouzhas/index.m3u8?token=+W2MSER
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://tv.rambler.ru/moskva/channel/kinosvidanie/" group-title="Фильмы и сериалы",Киносвидание
-https://clck.ru/3RZCq3
+http://31.148.48.15/Kinosvidanie_HD/index.m3u8
 #EXTINF:-1 tvg-id="russkiyroman" tvg-logo="https://rusroman.ru/favIcons/android-chrome-192x192.png" group-title="Фильмы и сериалы",Русский роман
 http://193.25.8.59:8000/rusroman
 #EXTINF:-1 tvg-id="kino24" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/a/a6/Kino_24.png/revision/latest?cb=20160719101653&path-prefix=ru" group-title="Фильмы и сериалы",Kino24
@@ -307,7 +307,7 @@ https://cdn.ntv.ru/th_style/playlist.m3u8
 #EXTINF:-1 tvg-id="moya-planeta" tvg-logo="https://www.cableman.ru/sites/default/files/logo_myplanet_color_text_1.png" group-title="Познавательное",Моя планета HD
 http://185.46.16.239:8000/Planeta_HD
 #EXTINF:-1 tvg-id="vkus" tvg-logo="" group-title="Познавательное",ВКУС
-https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-vkus-hd/playlist.fmp4.m3u8?md5=uL5tNFGesvQpDeYVG9xaeA&e=1770565544
+https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridge-vkus-hd/playlist.fmp4.m3u8?md5=CJvkJNXrbFgHfcXjZJiwpg&e=1770822495
 #EXTINF:-1 tvg-id="viju-explore" tvg-logo="https://ntvplus.tv/files/image/80/00/03/djf.png" group-title="Познавательное",viju Explore HD
 https://stream8.cinerama.uz/1045/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="viju-history" tvg-logo="https://ntvplus.tv/files/image/79/84/28/e2e.png" group-title="Познавательное",viju History HD
@@ -343,7 +343,7 @@ https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zdorovoe-tv" tvg-logo="https://www.cableman.ru/sites/default/files/zdorovoe_tv_1.png" group-title="Познавательное",Здоровое ТВ
 https://stream8.cinerama.uz/1428/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="mult" tvg-logo="https://smotret-tv.live/images/mult.png" group-title="Детское",Мульт HD
-https://stv.mediacdn.ru/live/cdn/mult/tracks-v1a1/mono.ts.m3u8?filter.tracks=v1v2v3v4v5a1
+http://31.148.48.15/Mult_HD/index.m3u8
 #EXTINF:-1 tvg-id="smayl-tv" tvg-logo="https://www.cableman.ru/sites/default/files/3d.png" group-title="Детское",Смайл ТВ
 https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
 #EXTINF:-1 tvg-id="detskiy-mir" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/6/67/%D0%A2%D0%B5%D0%BB%D0%B5%D0%BA%D0%BB%D1%83%D0%B1_%282003%2C_%D1%8D%D1%84%D0%B8%D1%80%D0%BD%D1%8B%D0%B9%2C_%D0%B4%D1%80%D1%83%D0%B3%D0%BE%D0%B9_%D1%86%D0%B2%D0%B5%D1%82%29.png/revision/latest?cb=20170912082125&path-prefix=ru" group-title="Детское",Детский мир
@@ -413,7 +413,7 @@ http://31148.rafail1982.uz/Bridge_TV_Classic/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsmUBiGl25GKzw6C4lIHoogR_vDKx0qfJYIA&s" group-title="Музыкальное" audio-track="rus",Mezzo
 http://158.101.222.193:88/georgia_play.php?id=mezzo
 #EXTINF:-1 tvg-logo="https://smotret-tv.live/images/bridge-tv-hits.png" group-title="Музыкальное",BRIDGE HITS
-https://hls2-bridgemedia.cdnvideo.ru/bridgemedia/bridgemedia-hits-hd/playlist.fmp4.m3u8?md5=GEdQd-PBY-GujiZSi97BQw&e=1770404292
+http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 #EXTINF:-1 tvg-logo="https://vits.tv/images/tvstation/russia/bridge-tv-deluxe.png" group-title="Музыкальное",BRIDGE DELUXE HD
 http://31.148.48.15/Bridge_TV_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ru/thumb/d/d8/Логотип_радиостанции_Страна_FM.png/250px-Логотип_радиостанции_Страна_FM.png" group-title="Музыкальное",Страна FM
@@ -435,19 +435,19 @@ http://31.148.48.15/La-Minor_TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://mixmtv.ru/gallery/MIX-M-1-0-ts1695106752.png" group-title="Музыкальное",MIXM
 https://bl.rutube.ru/livestream/88eba514854a55d87a4b66b66b1977e7/index.m3u8?s=ykynMV9FL9oIO13X0Q4Y1g&e=2069154903&scheme=https
 #EXTINF:-1 tvg-logo="https://vits.tv/images/tvstation/russia/match-strana.png" group-title="Спортивное",Матч! Страна
-http://91.207.115.228:5000/c106
+http://31.148.48.15/Match_Strana/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/02/31/28/3z9.png" group-title="Спортивное",Матч! Боец
-http://91.207.115.228:5000/c107
+http://31.148.48.15/Match_Boec/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/01/17/32/i2o.png" group-title="Спортивное",Матч! Игра
-http://91.207.115.228:5000/c104
+http://31.148.48.15/Match_Igra_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://ntvplus.tv/files/image/02/31/06/c11.png" group-title="Спортивное",Матч! Арена
 http://87.120.142.11:18000/Match!Arena
 #EXTINF:-1 tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/24a/hvlz1d4w6qp01jz1unfxvesyb8f0irpf/160_160_1/000000126.png" group-title="Спортивное",Матч! Футбол 1
-http://91.207.115.228:5000/c114
+http://31.148.48.15/Match_Futbol_1_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/7ca/lbkaey7i82zwg8r6lyvm5m6elttb4li4/160_160_1/000000180.png" group-title="Спортивное",Матч! Футбол 2
-http://91.207.115.228:5000/c115
+http://31.148.48.15/Match_Futbol_2_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.akado.ru/upload/resize_cache/iblock/f4f/895um8rklb6aeaf1bjnzowubik9hkcat/160_160_1/000000786.png" group-title="Спортивное",Матч! Футбол 3
-http://91.207.115.228:5000/c115
+http://31.148.48.15/Match_Futbol_3_HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/ultra_rex_logo.png" group-title="Спортивное",Russian Extreme Ultra
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA/variant.m3u8
 #EXTINF:-1 tvg-logo="https://www.cableman.ru/sites/default/files/triumf_logo.png" group-title="Спортивное",Старт Триумф HD
@@ -549,6 +549,7 @@ https://hls-01-gpm.hostingradio.ru/detifm495/128/playlist.m3u8
 #EXTINF:-1 group-title="Радио",ЖАРА FM МОСКВА
 
 #EXTINF:-1 group-title="Радио",СОЛОВЬЁВ FM
+
 
 
 

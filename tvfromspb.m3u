@@ -103,7 +103,7 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/tracks-v1a1/mono.ts.m
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://toplogos.ru/images/logo-kinokomediya.png" group-title="Фильмы и сериалы",Кинокомедия
 http://176.118.197.101/Kinokomediya/index.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/sites/default/files/kinosemya.png" group-title="Фильмы и сериалы",Киносемья
-http://31.148.48.15/Kinosemya_HD/index.m3u8
+https://stream8.cinerama.uz/1234/mono.m3u8
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://www.cableman.ru/sites/default/files/nashe_novoe_kino.png" group-title="Фильмы и сериалы",Наше новое кино
 https://clck.ru/3RZBEh
 #EXTINF:-1 tvg-id="kinokomediya" tvg-logo="https://vits.tv/images/tvstation/russia/kinohit.png" group-title="Фильмы и сериалы",Кинохит
@@ -185,7 +185,7 @@ https://cdn.ntv.ru/th_serial/mono.m3u8
 #EXTINF:-1 tvg-id="ntv-hit" tvg-logo="https://ramnet.ru/tv/logo/000003615.png" group-title="Фильмы и сериалы",НТВ Хит
 https://cdn.ntv.ru/th_hit/playlist.m3u8
 #EXTINF:-1 tvg-id="mujskoekino-nastroykino" tvg-logo="https://www.cableman.ru/sites/default/files/muzhskoe_kino.png" group-title="Фильмы и сериалы",Мужское кино
-http://91.207.115.228:5000/c40
+https://stream8.cinerama.uz/1237/mono.m3u8
 #EXTINF:-1 tvg-id="kino-1-international" tvg-logo="https://dbtv.ru/upload/icons/kino1int-tviksel.png" group-title="Фильмы и сериалы",Кино 1 International
 http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
 #EXTINF:-1 tvg-id="premialnoe-hd" tvg-logo="https://ip.ontivi.net/img/premialnoe-hd.png" group-title="Фильмы и сериалы",Премиальное HD
@@ -549,6 +549,7 @@ https://hls-01-gpm.hostingradio.ru/detifm495/128/playlist.m3u8
 #EXTINF:-1 group-title="Радио",ЖАРА FM МОСКВА
 
 #EXTINF:-1 group-title="Радио",СОЛОВЬЁВ FM
+
 
 
 
